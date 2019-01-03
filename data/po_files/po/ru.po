@@ -134,20 +134,20 @@ msgstr[2] "%d дней"
 
 #: data/po_files/../../sections/todo/view__stats.js:1170
 msgid "Average per day (including off days)"
-msgstr ""
+msgstr "Среднее за день (включая выходные дни)"
 
 #: data/po_files/../../sections/todo/view__stats.js:1179
 msgid "Average per day (excluding off days)"
-msgstr ""
+msgstr "Среднее за день (исключая выходные дни)"
 
 #: data/po_files/../../sections/todo/view__stats.js:1182
 #: data/po_files/../../sections/todo/view__stats.js:1192
 msgid "Total"
-msgstr ""
+msgstr "Всего"
 
 #: data/po_files/../../sections/todo/view__stats.js:1224
 msgid "Interval"
-msgstr ""
+msgstr "Интервал"
 
 #: data/po_files/../../sections/todo/view__stats.js:1226
 #, fuzzy
@@ -199,15 +199,15 @@ msgstr "Упорядочить по дате выполнения"
 
 #: data/po_files/../../sections/todo/view__sort.js:98
 msgid "Automatic sorting"
-msgstr ""
+msgstr "Автоматическая сортировка"
 
 #: data/po_files/../../sections/todo/view__kanban_switcher.js:72
 msgid "syntax help"
-msgstr ""
+msgstr "синтаксическая справка"
 
 #: data/po_files/../../sections/todo/view__kanban_switcher.js:130
 msgid "To use kanban boards, add the kanban todo extension to a task."
-msgstr ""
+msgstr "Чтобы использовать канбан-доску, добавьте задачу Канбан."
 
 #: data/po_files/../../sections/todo/view__loading.js:37
 #: data/po_files/../../sections/todo/MAIN.js:675
@@ -283,15 +283,15 @@ msgstr[2] "%d задач"
 #: data/po_files/../../sections/todo/time_tracker.js:302
 #: data/po_files/../../sections/todo/time_tracker.js:754
 msgid "Error while parsing csv file. See logs."
-msgstr ""
+msgstr "Ошибка при импорте CSV-файла. Смотрите логи."
 
 #: data/po_files/../../sections/todo/time_tracker.js:511
 msgid "To track time, select a dir for csv files in the settings."
-msgstr ""
+msgstr "Чтобы отследить время, выберите каталог для CSV-файлов в настройках."
 
 #: data/po_files/../../sections/todo/MAIN.js:277
 msgid "Unable to load todo file"
-msgstr ""
+msgstr "Невозможно загрузить файл"
 
 #: data/po_files/../../sections/todo/MAIN.js:369
 #, javascript-format
@@ -345,7 +345,7 @@ msgstr "выполнена"
 #: data/po_files/../../sections/todo/view__task_editor.js:118
 #, fuzzy
 msgid "Task..."
-msgstr "Задачи"
+msgstr "Задачи..."
 
 #: data/po_files/../../sections/todo/view__task_editor.js:215
 msgid "Archive"
@@ -357,7 +357,7 @@ msgstr "Добавить задачу..."
 
 #: data/po_files/../../sections/todo/view__file_switcher.js:95
 msgid "Add File"
-msgstr ""
+msgstr "Добавить файл"
 
 #: data/po_files/../../sections/todo/view__file_switcher.js:386
 msgid "Unique name"
@@ -375,7 +375,7 @@ msgstr "Файл списка дел"
 #: data/po_files/../../sections/todo/view__file_switcher.js:411
 #: data/po_files/../../sections/todo/view__file_switcher.js:426
 msgid "optional"
-msgstr ""
+msgstr "необязательный"
 
 #: data/po_files/../../sections/todo/view__file_switcher.js:426
 #, fuzzy
@@ -502,7 +502,7 @@ msgstr "Число помидоров до длинного перерыва"
 
 #: data/po_files/../../sections/pomodoro.js:764
 msgid "Control todo time tracker by task id..."
-msgstr ""
+msgstr "Контроль трекера времени todo по идентификатору задачи ..."
 
 #: data/po_files/../../sections/timer.js:43
 msgid "Timer Expired!"
@@ -510,7 +510,7 @@ msgstr "Время по таймеру истекло!"
 
 #: data/po_files/../../sections/timer.js:671
 msgid "Default preset"
-msgstr ""
+msgstr "Предустановка по умолчанию"
 
 #: data/po_files/../../sections/context_menu.js:35
 msgid "Open settings"
@@ -650,7 +650,7 @@ msgstr "Значки и текст"
 #: data/po_files/../../data/prefs.ui:603 data/po_files/../../data/prefs.ui:1115
 #: data/po_files/../../data/prefs.ui:1459
 msgid "Dynamic"
-msgstr ""
+msgstr "Динамический"
 
 #: data/po_files/../../data/prefs.ui:638 data/po_files/../../data/prefs.ui:2064
 msgid "Notification sound"
@@ -674,7 +674,7 @@ msgstr "На весь экран"
 #: data/po_files/../../data/prefs.ui:715 data/po_files/../../data/prefs.ui:1509
 #: data/po_files/../../data/prefs.ui:2141
 msgid "None"
-msgstr ""
+msgstr "Никакой"
 
 #: data/po_files/../../data/prefs.ui:747 data/po_files/../../data/prefs.ui:1147
 #: data/po_files/../../data/prefs.ui:1812
@@ -688,7 +688,7 @@ msgstr "Комбинации клавиш"
 #: data/po_files/../../data/prefs.ui:2214
 #: data/po_files/../../data/prefs.ui:2562
 msgid "Open popup menu"
-msgstr ""
+msgstr "Открыть всплывающее меню"
 
 #: data/po_files/../../data/prefs.ui:800 data/po_files/../../data/prefs.ui:850
 #: data/po_files/../../data/prefs.ui:900 data/po_files/../../data/prefs.ui:1200
@@ -735,7 +735,7 @@ msgstr "Открыть на весь экран"
 
 #: data/po_files/../../data/prefs.ui:888
 msgid "Open popup menu and search presets"
-msgstr ""
+msgstr "Открыть всплывающее меню и поиск пресетов"
 
 #: data/po_files/../../data/prefs.ui:1048
 msgid "Format"
@@ -764,7 +764,7 @@ msgstr "Ширина задачи (пикс)"
 
 #: data/po_files/../../data/prefs.ui:2475
 msgid "Resume tracking after abrupt restart?"
-msgstr ""
+msgstr "Возобновить отслеживание после внезапного перезапуска?"
 
 #: data/po_files/../../data/prefs.ui:2612
 #, fuzzy
